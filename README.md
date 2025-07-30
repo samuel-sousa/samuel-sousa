@@ -1,4 +1,4 @@
-## Hi there 👋!
+## Hi there!👋
 
 I'm **Samuel Sousa**, an Artificial Intelligence (AI) Researcher, Data Scientist, and Machine Learning Engineer with more than five years of industrial experience in three continents. My expertise spans machine/deep learning, natural language processing (NLP), and GenAI. 
 
