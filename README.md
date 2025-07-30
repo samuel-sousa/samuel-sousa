@@ -14,4 +14,4 @@ I'm **Samuel Sousa**, an Artificial Intelligence (AI) Researcher, Data Scientist
 
 ⚡ Fun fact: I love learning languages, so I'm keen on evaluating multilingual LLMs.
 
-![](https://komarev.com/ghpvc/?username=samuel-sousa&color=green&style=flat-square)
+![](https://komarev.com/ghpvc/?username=samuel-sousa&color=green&style=for-the-badge)
