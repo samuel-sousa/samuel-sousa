@@ -9,8 +9,8 @@ I'm **Samuel Sousa**, an Artificial Intelligence (AI) Researcher, Data Scientist
 👯 I’m looking to collaborate on major **AI/data science projects**.
 
 📫 Get in touch:
-  - [Website](http://samuel-sousa.github.io).
-  - [LinkedIn](linkedin.com/in/samsousa).
+  - [Website](https://samuel-sousa.github.io).
+  - [LinkedIn](https://linkedin.com/in/samsousa).
 
 ⚡ Fun fact: I love learning languages, so I'm keen on evaluating multilingual LLMs.
 
