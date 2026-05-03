@@ -6,7 +6,7 @@ I'm **Samuel Sousa**, a Generative Artificial Intelligence (GenAI) Developer, Ar
 
 🌱 I’m currently harvesting the power of **frontier LLMs** for products that ship.
 
-👯 I’m always striving to deploy on major **AI applications** to productionwith guaranteed scalability.
+👯 I’m always striving to deploy on major **AI applications** to production with guaranteed scalability.
 
 📫 Get in touch:
   - [Website](https://samuel-sousa.github.io).
