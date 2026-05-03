@@ -1,15 +1,15 @@
 ## Hi there!👋
 
-I'm **Samuel Sousa**, a Search and Generative Artificial Intelligence (GenAI) Developer, Artificial Intelligence Researcher, and Data Scientist with more than five years of industrial experience across three continents. My expertise spans machine/deep learning, natural language processing (NLP), and GenAI. 
+I'm **Samuel Sousa**, a Generative Artificial Intelligence (GenAI) Developer, Artificial Intelligence Researcher, and Data Scientist with more than six years of industrial experience across the Americas and Europe. My expertise spans GenAI, machine/deep learning, and natural language processing (NLP). 
 
-🔭 I’m currently working on **RAG** and **Agentic AI**.
+🔭 I’m currently working on **Agentic AI** and **Search**.
 
-🌱 I’m currently learning how to make the most out of **frontier LLMs**.
+🌱 I’m currently harvesting the power of **frontier LLMs** for products that ship.
 
-👯 I’m always looking to deploy on major **AI applications** to production.
+👯 I’m always striving to deploy on major **AI applications** to productionwith guaranteed scalability.
 
 📫 Get in touch:
   - [Website](https://samuel-sousa.github.io).
   - [LinkedIn](https://linkedin.com/in/samsousa).
 
-⚡ Fun fact: I love learning languages, so I'm keen on evaluating multilingual LLMs.
+⚡ Fun fact: I love learning a new language and its literature.
