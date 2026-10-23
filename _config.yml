@@ -19,7 +19,6 @@ exclude:
 - CNAME
 - Gemfile
 - Gemfile.lock
-- alembic-jekyll-theme.gemspec
 - .jekyll-cache
 
 # 2. Installed Gems
@@ -30,7 +29,6 @@ plugins:
 - jekyll-seo-tag
 - jekyll-redirect-from
 - jekyll-feed
-- jekyll-commonmark
 - jekyll-include-cache
 - jemoji
 
@@ -76,7 +74,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/assets/default-social-image.png" # Default image for sharing
+      image: "/assets/logos/logo@1024px.png" # Default image for sharing
   -
     scope:
       path: ""
@@ -132,8 +130,7 @@ navigation_header:
 - title: Contact
   url: /contact/
 
-navigation_footer:
-- title: 
+navigation_footer: []
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   LinkedIn: https://www.linkedin.com/in/samsousa
