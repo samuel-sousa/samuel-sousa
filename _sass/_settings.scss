@@ -29,6 +29,9 @@ $headingtype: (
   cap-height: 0.75
 ) !default;
 
+// Font used for h1-h6 only (tables and captions keep $headingtype)
+$headerfont: '"Work Sans", sans-serif' !default;
+
 $monospacetype: (
   font-family: "Menlo, monospace",
   regular: 400,
