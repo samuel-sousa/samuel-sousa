@@ -2,8 +2,6 @@
 title: Projects
 feature_image: "https://picsum.photos/2560/600?image=201"
 ---
-<head>
-<title>Table with Buttons and Rules</title>
 <style>
   table {
     width: 100%;
@@ -48,8 +46,7 @@ feature_image: "https://picsum.photos/2560/600?image=201"
     background-color: #45a049;
   }
 </style>
-</head>
-<body>
+
  <table>
       <thead>
         <tr>
@@ -103,4 +100,3 @@ feature_image: "https://picsum.photos/2560/600?image=201"
       </tr>
     </tfoot>
   </table>
-</body>
