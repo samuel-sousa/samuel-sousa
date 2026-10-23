@@ -13,3 +13,6 @@ I'm **Samuel Sousa**, a Generative Artificial Intelligence (GenAI) Developer, Ar
   - [LinkedIn](https://linkedin.com/in/samsousa).
 
 ⚡ Fun fact: I love learning a new language and its literature.
+
+
+**Disclaimer**: This website was developed based on the Alembic theme (https://github.com/daviddarnes/alembic). The images shown on the website pages are freely available for public use at https://picsum.photos/.
