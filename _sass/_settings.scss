@@ -1,0 +1,38 @@
+// Background colours
+$backgroundColour: #f5f5f5 !default;
+$codeBackgroundColour: #fafafa !default;
+$featureBackgroundColour: #f9fafa !default;
+$accentColour: #000000 !default;
+
+// Text colours
+$headingColour: #242e2b !default;
+$bodyColour: #384743 !default;
+$linkColour: #000000 !default;
+$hoverColour: #65bbce !default;
+$focusColour: #2f7283 !default;
+$captionColour: #a8adac !default;
+$white: #ffffff !default;
+
+// Typography
+$bodytype: (
+  font-family: "Roboto, sans-serif",
+  regular: 400,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.75
+) !default;
+
+$headingtype: (
+  font-family: '"Roboto", sans-serif',
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+) !default;
+
+$monospacetype: (
+  font-family: "Menlo, monospace",
+  regular: 400,
+  cap-height: 0.68
+) !default;
+
+// TIP: Load custom fonts in _config.yaml

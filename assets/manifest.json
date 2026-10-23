@@ -1,0 +1,23 @@
+---
+permalink: "/manifest.json"
+layout: null
+sitemap: false
+---
+{
+  "name": {{ site.title | jsonify }},
+  "short_name": {{ site.short_name | default: site.title | jsonify }},
+  "description": {{ site.description | jsonify }},
+  "start_url": "{{ '/' | relative_url }}",
+  "display": "standalone",
+  "background_color": "{{ site.manifest.background_color | default: '#ffffff' }}",
+  "theme_color": "{{ site.manifest.theme_color | default: '#242e2b' }}",
+  "icons": [
+    {%- for icon in site.favicons %}
+    {
+      "src": "{{ icon[1] | relative_url }}",
+      "sizes": "{{ icon[0] }}x{{ icon[0] }}",
+      "type": "image/png"
+    }{% unless forloop.last %},{% endunless %}
+    {%- endfor %}
+  ]
+}
