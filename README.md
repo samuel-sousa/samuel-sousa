@@ -1,6 +1,6 @@
 ## Hi there!👋
 
-I'm **Samuel Sousa**, a Generative Artificial Intelligence (GenAI) Developer, Artificial Intelligence Researcher, and Data Scientist with more than six years of industrial experience across the Americas and Europe. My expertise spans GenAI, machine/deep learning, and natural language processing (NLP). 
+I'm **Samuel Sousa**, a Generative Artificial Intelligence (GenAI) Developer, Artificial Intelligence Researcher, Data Scientist, and Machine Learning Engineer with more than six years of industrial experience across the Americas and Europe. My expertise spans GenAI, machine/deep learning, and natural language processing (NLP). 
 
 🔭 I’m currently working on **Agentic AI** and **Search**.
 
